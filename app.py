@@ -40,18 +40,16 @@ def sms():
 
 def quotes():
     reasons = [
-            'Funny quote of the hour: The quickest way to double your money is to fold it in half and put it back in your pocket.',
-            'Funny quote of the hour: When Life Gives You Questions, Google has Answers',
-            'Funny quote of the hour: If at first you don\'t succeed, call it version 1.0.',
-            'Funny quote of the hour: Microsoft - You\'ve got questions. We\'ve got dancing paperclips.',
-            'Funny quote of the hour: There are 10 types of people in the world: those who understand binary, and those who don\'t.',
-            'Funny quote of the hour: I\'m not anti-social; I\'m just not user friendly',
-            'Funny quote of the hour: My software never has bugs. It just develops random features.',
-            'Funny quote of the hour: I would love to change the world, but they won\'t give me the source code.',
-            'Funny quote of the hour: Be nice to the nerds, you will probably end up working for them.',
-            'Funny quote of the hour: Artificial Intelligence is no match for Natural Stupidity.',
-            'Funny quote of the hour: A computer lets you make more mistakes faster than any invention in human history - with the possible exceptions of handguns and tequila.',
-            'Funny quote of the hour: In a world without fences and walls, who needs Gates and Windows?']
+            'Our offense is like the Pythagorean Theorem.  There is no answer. - Shaq',
+            'I am the number one Ninja and I have killed all the Shoguns in front of me. - Shaq',
+            'I\'m like tax. You’re going to pay one way or the other. - Shaq',
+            'Nietzsche was so intelligent and advanced.  And that\'s how I am. I\'m the black, basketball-playing Nietzsche - Shaq',
+            'I\'m like toilet paper, Pampers and toothpaste. I\'m definitely proven to be effective. - Shaq',
+            'It\'s hard being the NBA\'s sex symbol, but somebody has to do it. - Shaq',
+            'I just said to myself, Damn, I\'m a great player. - Shaq',
+            'Just like your basic karate movie where the young guys come to the old guys with beards who have them do weird stuff to get to the other side. That\'s who I am, the old guy with a long beard. - Shaq',
+            'If you\'re going to hire an assassin, let him go out and kill someone. I can\'t be Shaq taking six or seven shots. - Shaq',
+            'I\'m like President Bush. You may not like me, you may not respect me, but you voted me in. - Shaq on his All Star selection']
     return choice(reasons)
 
 if __name__ == '__main__':
