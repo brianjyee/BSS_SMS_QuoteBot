@@ -42,7 +42,7 @@ def quotes():
     reasons = [
             'Our offense is like the Pythagorean Theorem.  There is no answer. - Shaq',
             'I am the number one Ninja and I have killed all the Shoguns in front of me. - Shaq',
-            'I\'m like tax. You’re going to pay one way or the other. - Shaq',
+            'I\'m like tax. You\'re going to pay one way or the other. - Shaq',
             'Nietzsche was so intelligent and advanced.  And that\'s how I am. I\'m the black, basketball-playing Nietzsche - Shaq',
             'I\'m like toilet paper, Pampers and toothpaste. I\'m definitely proven to be effective. - Shaq',
             'It\'s hard being the NBA\'s sex symbol, but somebody has to do it. - Shaq',
