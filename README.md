@@ -1,4 +1,4 @@
-BSS_SMS_QuoteBot
+Shaq Quotes
 ================
 
-A quote bot that texts you nerdy quotes when you text a Twilio number.
+A quote bot that texts you quotes by Shaquille O'neal when you text a Twilio number.
